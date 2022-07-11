@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="restAPITest">
+	<parameter name="userId" value="14">
+
+	</parameter>
+	<test thread-count="5" name="restAPITest">
+		<classes>
+			<class name="com.qa.restApi.tests.APIDataTest">
+			</class>
+		</classes>
+	</test>
+</suite>

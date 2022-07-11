@@ -1,2 +1,2 @@
-# Rest-API-Python
-A Python test repo for Rest API
+# Rest-API-Java
+A Java test repo for Rest API
